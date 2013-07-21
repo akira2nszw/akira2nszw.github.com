@@ -17,7 +17,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* yokohama cofog */
+  /* edogawa cofog */
   '20130100': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' },
   '20130101': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' },
   '20130200': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
